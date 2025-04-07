@@ -10,5 +10,22 @@ namespace BethanysPieShopHRM.App.Components
 
         [Parameter]
         public EventCallback<Employee> EmployeeQuickViewClicked { get; set; }
+
+        [Inject]
+        public NavigationManager NavigationManager { get; set; } = default!;
+
+        protected override void OnInitialized()
+        {
+            if(string.IsNullOrEmpty(Employee.LastName))
+            {
+                throw new Exception("Last name can't be empty.");
+            }
+        }
+        public void NavigateToDetails(Employee selectedEmployee)
+        {
+            //we can write code here
+
+            NavigationManager.NavigateTo($"/employeedetail/{selectedEmployee.EmployeeId}");
+        }
     }
 }
