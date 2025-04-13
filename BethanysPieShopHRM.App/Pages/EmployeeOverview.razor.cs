@@ -1,7 +1,5 @@
 ﻿using BethanysPieShopHRM.App.Models;
-using BethanysPieShopHRM.App.Services;
 using BethanysPieShopHRM.Shared.Domain;
-using Microsoft.AspNetCore.Components;
 
 namespace BethanysPieShopHRM.App.Pages
 {
@@ -13,20 +11,11 @@ namespace BethanysPieShopHRM.App.Pages
         private string Title = "Employee overview";
         private string Description = "employee overview";
 
-        [Inject]
-        public IEmployeeDataService? EmployeeDataService { get; set; }
-
-
-
-        //protected override void OnInitialized()
-        //{
-        //    Employees = MockDataService.Employees;
-        //}
-
-        protected async override Task OnInitializedAsync()
+        protected override void OnInitialized()
         {
-            Employees = (await EmployeeDataService.GetAllEmployees()).ToList();
+            Employees = MockDataService.Employees;
         }
+
 
         public void ShowQuickViewPopup(Employee selectedEmployee)
         {
