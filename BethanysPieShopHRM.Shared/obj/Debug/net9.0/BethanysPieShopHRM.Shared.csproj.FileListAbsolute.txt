@@ -1,0 +1,12 @@
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\bin\Debug\net9.0\BethanysPieShopHRM.Shared.deps.json
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\bin\Debug\net9.0\BethanysPieShopHRM.Shared.dll
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\bin\Debug\net9.0\BethanysPieShopHRM.Shared.pdb
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.sourcelink.json
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.dll
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\refint\BethanysPieShopHRM.Shared.dll
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\BethanysPieShopHRM.Shared.pdb
+C:\Dev\Blazor\BethanysPieShopHRM.Shared\obj\Debug\net9.0\ref\BethanysPieShopHRM.Shared.dll

@@ -1,0 +1,13 @@
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Dev\Blazor\BethanysPieShopHRM.App\obj\Debug\net9.0\staticwebassets.build.json
